@@ -142,7 +142,7 @@
   * [欢迎参与](#欢迎参与)
   * [许可证](#许可证)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 524 | 🐛 12 | 🌐 Go | 📅 2026-08-14
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go) ⭐ 524 | 🐛 5 | 🌐 Go | 📅 2026-08-15
 
 ## 网站与资源
 
@@ -611,7 +611,7 @@ OpenWrt 使用 opkg 包管理系统，支持通过安装软件来扩展功能。
 * [清华大学 OpenWrt 软件源镜像](https://mirrors.tuna.tsinghua.edu.cn/openwrt/)
 * OpenWrt 第三方修改版
   * [OpenWrt Koolshare 修改版](https://www.koolcenter.com/category/openwrt)<br>提供「软件中心」，方便安装来自 Koolshare 和第三方开发者的特色软件。
-  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,567 | 🐛 868 | 🌐 C | 📅 2026-08-14<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
+  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,567 | 🐛 868 | 🌐 C | 📅 2026-08-15<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
   * [Gargoyle](https://www.gargoyle-router.com/)<br>在国内常被称做「石像鬼固件」，具有强大的 QoS 功能。
   * [Linino](https://www.linino.org/)<br>基于 OpenWrt 的操作系统，内置 `cpu-mcu-bridge`，能够方便的在 OpenWrt 和单片机之间通信，更适合物联网应用。
 
@@ -906,8 +906,8 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
 
 * 同时支持 NAT 打洞和服务器中转的内网穿透工具
   * [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
-  * [frp](https://github.com/fatedier/frp) ⭐ 108,794 | 🐛 52 | 🌐 Go | 📅 2026-08-14: 支持多种协议的内网穿透工具
-  * [nps](https://github.com/ehang-io/nps) ⭐ 34,165 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
+  * [frp](https://github.com/fatedier/frp) ⭐ 108,813 | 🐛 52 | 🌐 Go | 📅 2026-08-14: 支持多种协议的内网穿透工具
+  * [nps](https://github.com/ehang-io/nps) ⭐ 34,162 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
   * [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
 
@@ -1028,7 +1028,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
   * [KoolCenter 软件中心](https://www.koolcenter.com/posts/55)<br>来自 KoolCenter（原 KoolShare 论坛）的软件中心，主要支持 Asuswrt-Merlin ，提供了适合国内用户使用的特色软件。
   * [Synology SRM 套件中心](https://www.synology.com/zh-cn/srm/packages)<br>Synology Router Manager (SRM) 操作系统自带的软件中心，目前仅有来自 Synology 的少量软件。但是来自 Synology DSM 的部分软件，经过修改后，也可以在 SRM 软件中心中手动安装。
 * Entware/Optware<br>不少路由器操作系统，例如 Asuswrt-Merlin、DD-WRT、Synology Router Manager 等，默认不支持安装第三方软件，或者对第三方软件的支持有限，可通过 Entware/Optware 的方式来安装软件。
-  * [Entware/Entware: Ultimate repo for embedded devices](https://github.com/Entware/Entware) ⭐ 2,768 | 🐛 68 | 🌐 C | 📅 2026-08-13
+  * [Entware/Entware: Ultimate repo for embedded devices](https://github.com/Entware/Entware) ⭐ 2,769 | 🐛 68 | 🌐 C | 📅 2026-08-13
   * [Optware/Optware-ng](https://github.com/Optware/Optware-ng) ⭐ 280 | 🐛 45 | 🌐 Makefile | 📅 2020-01-25
   * [Entware · RMerl/asuswrt-merlin Wiki](https://github.com/RMerl/asuswrt-merlin/wiki/Entware) ⚠️ Archived
   * [Installing Entware - DD-WRT Wiki](https://wiki.dd-wrt.com/wiki/index.php/Installing_Entware)
@@ -1373,4 +1373,4 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
