@@ -611,7 +611,7 @@ OpenWrt 使用 opkg 包管理系统，支持通过安装软件来扩展功能。
 * [清华大学 OpenWrt 软件源镜像](https://mirrors.tuna.tsinghua.edu.cn/openwrt/)
 * OpenWrt 第三方修改版
   * [OpenWrt Koolshare 修改版](https://www.koolcenter.com/category/openwrt)<br>提供「软件中心」，方便安装来自 Koolshare 和第三方开发者的特色软件。
-  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,567 | 🐛 868 | 🌐 C | 📅 2026-08-15<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
+  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,573 | 🐛 868 | 🌐 C | 📅 2026-08-17<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
   * [Gargoyle](https://www.gargoyle-router.com/)<br>在国内常被称做「石像鬼固件」，具有强大的 QoS 功能。
   * [Linino](https://www.linino.org/)<br>基于 OpenWrt 的操作系统，内置 `cpu-mcu-bridge`，能够方便的在 OpenWrt 和单片机之间通信，更适合物联网应用。
 
@@ -906,8 +906,8 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
 
 * 同时支持 NAT 打洞和服务器中转的内网穿透工具
   * [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
-  * [frp](https://github.com/fatedier/frp) ⭐ 108,813 | 🐛 52 | 🌐 Go | 📅 2026-08-14: 支持多种协议的内网穿透工具
-  * [nps](https://github.com/ehang-io/nps) ⭐ 34,162 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
+  * [frp](https://github.com/fatedier/frp) ⭐ 108,819 | 🐛 50 | 🌐 Go | 📅 2026-08-16: 支持多种协议的内网穿透工具
+  * [nps](https://github.com/ehang-io/nps) ⭐ 34,163 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
   * [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
 
@@ -1122,7 +1122,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 
 不同学校的校园网有着不同的认证方式，部分学校还会使用私有协议。对于校园网，建议先在学校论坛等社区了解本校的校园网是否可以在 OpenWrt 等设备上连接和认证。
 
-* [drcoms/drcom-generic: Dr.COM/DrCOM 现已覆盖 d p x三版。](https://github.com/drcoms/drcom-generic) ⭐ 1,194 | 🐛 47 | 🌐 Python | 📅 2023-03-08：Dr.COM 认证
+* [drcoms/drcom-generic: Dr.COM/DrCOM 现已覆盖 d p x三版。](https://github.com/drcoms/drcom-generic) ⭐ 1,195 | 🐛 47 | 🌐 Python | 📅 2023-03-08：Dr.COM 认证
 * [liuqun/njit8021xclient: 南京工程学院802.1X客户端（Linux版兼容H3C/iNode V2.40-F0335）](https://github.com/liuqun/njit8021xclient) ⭐ 160 | 🐛 9 | 🌐 C | 📅 2021-04-23：802.1x 认证
 * [MentoHUST (简体中文) - ArchWiki](https://wiki.archlinux.org/index.php/MentoHUST_\(简体中文\))：锐捷认证
 * [路由器认证校园网的一个思路 | Damon Lee 's blog](http://blog.zhenglee.top/2018/08/09/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%AE%A4%E8%AF%81%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%B7%AF/index.html)：Portal 认证
@@ -1373,4 +1373,4 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
