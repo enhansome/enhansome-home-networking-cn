@@ -611,7 +611,7 @@ OpenWrt 使用 opkg 包管理系统，支持通过安装软件来扩展功能。
 * [清华大学 OpenWrt 软件源镜像](https://mirrors.tuna.tsinghua.edu.cn/openwrt/)
 * OpenWrt 第三方修改版
   * [OpenWrt Koolshare 修改版](https://www.koolcenter.com/category/openwrt)<br>提供「软件中心」，方便安装来自 Koolshare 和第三方开发者的特色软件。
-  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,571 | 🐛 868 | 🌐 C | 📅 2026-08-18<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
+  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,573 | 🐛 868 | 🌐 C | 📅 2026-08-18<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
   * [Gargoyle](https://www.gargoyle-router.com/)<br>在国内常被称做「石像鬼固件」，具有强大的 QoS 功能。
   * [Linino](https://www.linino.org/)<br>基于 OpenWrt 的操作系统，内置 `cpu-mcu-bridge`，能够方便的在 OpenWrt 和单片机之间通信，更适合物联网应用。
 
@@ -906,8 +906,8 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
 
 * 同时支持 NAT 打洞和服务器中转的内网穿透工具
   * [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
-  * [frp](https://github.com/fatedier/frp) ⭐ 108,864 | 🐛 51 | 🌐 Go | 📅 2026-08-17: 支持多种协议的内网穿透工具
-  * [nps](https://github.com/ehang-io/nps) ⭐ 34,166 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
+  * [frp](https://github.com/fatedier/frp) ⭐ 108,877 | 🐛 52 | 🌐 Go | 📅 2026-08-17: 支持多种协议的内网穿透工具
+  * [nps](https://github.com/ehang-io/nps) ⭐ 34,168 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
   * [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
 
@@ -983,7 +983,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 
 「迅雷快鸟」是比较著名的一个网络加速服务，同时有第三方开发者将其移植到路由器，能够在路由器上方便地打开提速服务。
 
-* [迅雷快鸟 Xunlei Network Accelerator For Router](https://github.com/fffonion/Xunlei-Fastdick) ⭐ 813 | 🐛 26 | 🌐 Python | 📅 2020-09-27
+* [迅雷快鸟 Xunlei Network Accelerator For Router](https://github.com/fffonion/Xunlei-Fastdick) ⭐ 814 | 🐛 26 | 🌐 Python | 📅 2020-09-27
 * [迅雷快鸟 - 带宽加速神器插件 - KoolShare](https://web.archive.org/web/20200215124208/http://koolshare.cn/thread-34888-1-1.html)
 
 ### 游戏加速
