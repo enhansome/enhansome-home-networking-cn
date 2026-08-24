@@ -1,8 +1,227 @@
 {
   "items": [
     {
+      "description": "我的其他 Awesome Lists：",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "blanboom/awesome-technical-diy-cn: DIY Projects/Tools/Books for Makers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247500570,
+            "language": null,
+            "last_commit": "2024-01-29T14:47:04Z",
+            "owner": "blanboom",
+            "repo": "awesome-technical-diy-cn",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blanboom/tiny-projects: 计算机科学领域的入门 DIY 项目，例如自制操作系统、CPU、编译器等",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749854226,
+            "language": null,
+            "last_commit": "2024-08-15T14:02:46Z",
+            "owner": "blanboom",
+            "repo": "tiny-projects",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "同时支持 NAT 打洞和服务器中转的内网穿透工具",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "frp",
+                  "description": "支持多种协议的内网穿透工具",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48378947,
+                    "language": "Go",
+                    "last_commit": "2026-08-17T16:24:14Z",
+                    "owner": "fatedier",
+                    "repo": "frp",
+                    "stars": 108981
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nps",
+                  "description": "支持多种协议的内网穿透工具",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156084530,
+                    "language": "Go",
+                    "last_commit": "2024-05-30T03:51:08Z",
+                    "owner": "ehang-io",
+                    "repo": "nps",
+                    "stars": 34176
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "由于 IPv4 地址资源有限，部分运营商不会给家庭宽带用户分配公网 IPv4 地址。这时候，如果需要访问家庭网络中的服务，就需要内网穿透功能。\n常见的内网穿透方式有两种，一种是通过服务器进行中转，不过一般需要自己购买 VPS 服务器并搭建环境。或者购买专门的商业服务。\n另一种是通过 NAT 打洞的方式实现。这种方式优点是设备间能够直接通信，避免消耗服务器流量，一定程度上提高速度。缺点是 NAT 打洞一般使用 UDP 协议，流量较大的情况下可能会被部分 ISP 限速。",
+          "node_type": "group",
+          "title": "内网穿透"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "迅雷快鸟 Xunlei Network Accelerator For Router",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34940712,
+                "language": "Python",
+                "last_commit": "2020-09-27T06:37:11Z",
+                "owner": "fffonion",
+                "repo": "Xunlei-Fastdick",
+                "stars": 814
+              }
+            }
+          ],
+          "description": "一些路由器宣称具有「物理带宽提升」的功能，实际上是通过与运营商合作的方式实现的，运营商可以动态地调整带宽限制，付费后自动提高带宽。\n「迅雷快鸟」是比较著名的一个网络加速服务，同时有第三方开发者将其移植到路由器，能够在路由器上方便地打开提速服务。",
+          "node_type": "group",
+          "title": "带宽提升"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "HomeBridge、Home Assistant 整合对于开放的路由器操作系统，还可以实现在路由器上运行 HomeBridge，或者将路由器接入 Home Assistant。",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "misenhower/homebridge-unifi-led-control",
+                  "description": "通过 HomeBridge 控制 UniFi 设备上的 LED",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267196711,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-02T14:35:32Z",
+                    "owner": "misenhower",
+                    "repo": "homebridge-unifi-led-control",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "智能家居属于新兴领域，在路由器中整合智能家居相关功能，不同厂商有着不同的思路。",
+          "node_type": "group",
+          "title": "智能家居整合"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Entware/Optware不少路由器操作系统，例如 Asuswrt-Merlin、DD-WRT、Synology Router Manager 等，默认不支持安装第三方软件，或者对第三方软件的支持有限，可通过 Entware/Optware 的方式来安装软件。",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Entware · RMerl/asuswrt-merlin Wiki",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 4682742,
+                    "language": null,
+                    "last_commit": "2019-07-13T20:37:41Z",
+                    "owner": "RMerl",
+                    "repo": "asuswrt-merlin",
+                    "stars": 6761
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Entware/Entware: Ultimate repo for embedded devices",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 123925061,
+                    "language": "C",
+                    "last_commit": "2026-08-13T18:30:02Z",
+                    "owner": "Entware",
+                    "repo": "Entware",
+                    "stars": 2771
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Optware/Optware-ng",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31074623,
+                    "language": "Makefile",
+                    "last_commit": "2020-01-25T09:16:18Z",
+                    "owner": "Optware",
+                    "repo": "Optware-ng",
+                    "stars": 280
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "不少路由器操作系统，可以通过一定的方式运行第三方应用，扩展路由器的功能，使路由器更加「智能」。",
+          "node_type": "group",
+          "title": "运行第三方应用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "IFTTT",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "z-george-ma/openwrt-iot: IoT support for OpenWRT based router",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117969908,
+                    "language": "Lua",
+                    "last_commit": "2020-05-10T01:32:31Z",
+                    "owner": "z-george-ma",
+                    "repo": "openwrt-iot",
+                    "stars": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "部分无线路由器能够整合第三方服务，实现更高级的自动化。",
+          "node_type": "group",
+          "title": "第三方服务整合"
+        },
         {
           "children": [
             {
@@ -81,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:59:03.706Z",
+    "last_updated": "2026-08-24T14:05:52.103Z",
     "original_repository": "blanboom/awesome-home-networking-cn",
     "original_repository_id": 243001692,
     "original_repository_sha": "f4b10dff0dd348a8107c50aa970e873de1748141",

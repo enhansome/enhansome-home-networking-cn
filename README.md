@@ -611,7 +611,7 @@ OpenWrt 使用 opkg 包管理系统，支持通过安装软件来扩展功能。
 * [清华大学 OpenWrt 软件源镜像](https://mirrors.tuna.tsinghua.edu.cn/openwrt/)
 * OpenWrt 第三方修改版
   * [OpenWrt Koolshare 修改版](https://www.koolcenter.com/category/openwrt)<br>提供「软件中心」，方便安装来自 Koolshare 和第三方开发者的特色软件。
-  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,581 | 🐛 867 | 🌐 C | 📅 2026-08-23<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
+  * [OpenWrt Lean 修改版](https://github.com/coolsnowwolf/lede) ⭐ 31,582 | 🐛 868 | 🌐 C | 📅 2026-08-23<br>代码开源。在添加适合中国用户的特色功能的基础上，尽量保持精简。
   * [Gargoyle](https://www.gargoyle-router.com/)<br>在国内常被称做「石像鬼固件」，具有强大的 QoS 功能。
   * [Linino](https://www.linino.org/)<br>基于 OpenWrt 的操作系统，内置 `cpu-mcu-bridge`，能够方便的在 OpenWrt 和单片机之间通信，更适合物联网应用。
 
@@ -905,9 +905,9 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
   * [ngrok](https://ngrok.com/)
 
 * 同时支持 NAT 打洞和服务器中转的内网穿透工具
+  * [frp](https://github.com/fatedier/frp) ⭐ 108,981 | 🐛 56 | 🌐 Go | 📅 2026-08-17: 支持多种协议的内网穿透工具
+  * [nps](https://github.com/ehang-io/nps) ⭐ 34,176 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
-  * [frp](https://github.com/fatedier/frp) ⭐ 108,969 | 🐛 56 | 🌐 Go | 📅 2026-08-17: 支持多种协议的内网穿透工具
-  * [nps](https://github.com/ehang-io/nps) ⭐ 34,178 | 🐛 525 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
   * [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
 
@@ -1013,9 +1013,9 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 * 华为：为智能家居设备提升 QoS 优先级，使设备能够快速响应；同时也支持为自动智能家居设备设置防火墙规则
   * [华为路由 A2 - 华为商城](https://www.vmall.com/product/10086534540521.html)（参考页面中关于 IoT 设备的描述）
 * HomeBridge、Home Assistant 整合<br>对于开放的路由器操作系统，还可以实现在路由器上运行 HomeBridge，或者将路由器接入 Home Assistant。
+  * [misenhower/homebridge-unifi-led-control](https://github.com/misenhower/homebridge-unifi-led-control) ⭐ 19 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-02: 通过 HomeBridge 控制 UniFi 设备上的 LED
   * [RT1900ac 路由器折腾笔记：安装 Homebridge 和 Plex Media Server – Blanboom](https://blanboom.org/2017/plex-on-rt1900ac/)
   * [OpenWRT - Home Assistant](https://www.home-assistant.io/integrations/openwrt/)
-  * [misenhower/homebridge-unifi-led-control](https://github.com/misenhower/homebridge-unifi-led-control) ⭐ 19 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-02: 通过 HomeBridge 控制 UniFi 设备上的 LED
 
 ### 运行第三方应用
 
@@ -1028,9 +1028,9 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
   * [KoolCenter 软件中心](https://www.koolcenter.com/posts/55)<br>来自 KoolCenter（原 KoolShare 论坛）的软件中心，主要支持 Asuswrt-Merlin ，提供了适合国内用户使用的特色软件。
   * [Synology SRM 套件中心](https://www.synology.com/zh-cn/srm/packages)<br>Synology Router Manager (SRM) 操作系统自带的软件中心，目前仅有来自 Synology 的少量软件。但是来自 Synology DSM 的部分软件，经过修改后，也可以在 SRM 软件中心中手动安装。
 * Entware/Optware<br>不少路由器操作系统，例如 Asuswrt-Merlin、DD-WRT、Synology Router Manager 等，默认不支持安装第三方软件，或者对第三方软件的支持有限，可通过 Entware/Optware 的方式来安装软件。
+  * [Entware · RMerl/asuswrt-merlin Wiki](https://github.com/RMerl/asuswrt-merlin/wiki/Entware) ⚠️ Archived
   * [Entware/Entware: Ultimate repo for embedded devices](https://github.com/Entware/Entware) ⭐ 2,771 | 🐛 69 | 🌐 C | 📅 2026-08-13
   * [Optware/Optware-ng](https://github.com/Optware/Optware-ng) ⭐ 280 | 🐛 45 | 🌐 Makefile | 📅 2020-01-25
-  * [Entware · RMerl/asuswrt-merlin Wiki](https://github.com/RMerl/asuswrt-merlin/wiki/Entware) ⚠️ Archived
   * [Installing Entware - DD-WRT Wiki](https://wiki.dd-wrt.com/wiki/index.php/Installing_Entware)
 * docker<br>由于部分支持 Docker 的路由器操作系统，还可以通过 Docker 运行容器，来运行第三方软件。
   * [Persistent PiHole via Docker on UDMPro : Ubiquiti](https://www.reddit.com/r/Ubiquiti/comments/dvik8g/persistent_pihole_via_docker_on_udmpro/)
@@ -1096,9 +1096,9 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 部分无线路由器能够整合第三方服务，实现更高级的自动化。
 
 * [IFTTT](https://ifttt.com/)
+  * [z-george-ma/openwrt-iot: IoT support for OpenWRT based router](https://github.com/z-george-ma/openwrt-iot) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2020-05-10
   * [ASUS Router works better with IFTTT](https://ifttt.com/asusrouter)
   * [TP-Link Router works better with IFTTT](https://ifttt.com/tplink_router)
-  * [z-george-ma/openwrt-iot: IoT support for OpenWRT based router](https://github.com/z-george-ma/openwrt-iot) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2020-05-10
 * [iOS 快捷指令](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
   * [DS router on the App Store](https://apps.apple.com/us/app/ds-router/id963699443): Synology Router Manager 的手机 App，支持 iOS 快捷指令
 * Alexa
