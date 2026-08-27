@@ -55,10 +55,10 @@
                     "archived": false,
                     "id": 48378947,
                     "language": "Go",
-                    "last_commit": "2026-08-17T16:24:14Z",
+                    "last_commit": "2026-08-26T15:33:45Z",
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109019
+                    "stars": 109054
                   }
                 },
                 {
@@ -73,7 +73,7 @@
                     "last_commit": "2024-05-30T03:51:08Z",
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34175
+                    "stars": 34176
                   }
                 }
               ]
@@ -300,9 +300,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:56:00.422Z",
-    "original_repository": "blanboom/awesome-home-networking-cn",
-    "original_repository_id": 243001692,
+    "last_updated": "2026-08-27T11:44:16.620Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 243001692,
+      "language": null,
+      "last_commit": "2025-10-28T12:37:44Z",
+      "owner": "blanboom",
+      "repo": "awesome-home-networking-cn",
+      "stars": 1861
+    },
     "original_repository_sha": "f4b10dff0dd348a8107c50aa970e873de1748141",
     "enhanced_repository": "enhansome/enhansome-home-networking-cn",
     "enhanced_repository_description": null,
