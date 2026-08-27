@@ -55,10 +55,10 @@
                     "archived": false,
                     "id": 48378947,
                     "language": "Go",
-                    "last_commit": "2026-08-26T15:33:45Z",
+                    "last_commit": "2026-08-27T13:47:06Z",
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109054
+                    "stars": 109062
                   }
                 },
                 {
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:16.620Z",
+    "last_updated": "2026-08-27T16:35:19.762Z",
     "original_repository_info": {
       "archived": false,
       "id": 243001692,
