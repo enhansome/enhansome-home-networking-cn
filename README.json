@@ -16,7 +16,8 @@
             "owner": "blanboom",
             "repo": "awesome-technical-diy-cn",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T17:30:59.574Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "blanboom",
             "repo": "tiny-projects",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:30:59.574Z"
         }
       ],
       "title": "Overview"
@@ -55,11 +57,12 @@
                     "archived": false,
                     "id": 48378947,
                     "language": "Go",
-                    "last_commit": "2026-08-27T13:47:06Z",
+                    "last_commit": "2026-08-28T02:56:09Z",
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109062
-                  }
+                    "stars": 109085
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 },
                 {
                   "node_type": "item",
@@ -73,8 +76,9 @@
                     "last_commit": "2024-05-30T03:51:08Z",
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34176
-                  }
+                    "stars": 34180
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 }
               ]
             }
@@ -98,7 +102,8 @@
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
                 "stars": 814
-              }
+              },
+              "first_seen": "2026-08-28T17:30:59.574Z"
             }
           ],
           "description": "一些路由器宣称具有「物理带宽提升」的功能，实际上是通过与运营商合作的方式实现的，运营商可以动态地调整带宽限制，付费后自动提高带宽。\n「迅雷快鸟」是比较著名的一个网络加速服务，同时有第三方开发者将其移植到路由器，能够在路由器上方便地打开提速服务。",
@@ -125,7 +130,8 @@
                     "owner": "misenhower",
                     "repo": "homebridge-unifi-led-control",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 }
               ]
             }
@@ -154,7 +160,8 @@
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
                     "stars": 6760
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 },
                 {
                   "node_type": "item",
@@ -168,8 +175,9 @@
                     "last_commit": "2026-08-13T18:30:02Z",
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2772
-                  }
+                    "stars": 2773
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +192,8 @@
                     "owner": "Optware",
                     "repo": "Optware-ng",
                     "stars": 280
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 }
               ]
             }
@@ -213,7 +222,8 @@
                     "owner": "z-george-ma",
                     "repo": "openwrt-iot",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:30:59.574Z"
                 }
               ]
             }
@@ -237,7 +247,8 @@
                 "owner": "drcoms",
                 "repo": "drcom-generic",
                 "stars": 1193
-              }
+              },
+              "first_seen": "2026-08-28T17:30:59.574Z"
             },
             {
               "node_type": "item",
@@ -252,7 +263,8 @@
                 "owner": "liuqun",
                 "repo": "njit8021xclient",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T17:30:59.574Z"
             }
           ],
           "description": "不同学校的校园网有着不同的认证方式，部分学校还会使用私有协议。对于校园网，建议先在学校论坛等社区了解本校的校园网是否可以在 OpenWrt 等设备上连接和认证。",
@@ -278,7 +290,8 @@
             "owner": "geerlingguy",
             "repo": "internet-monitoring",
             "stars": 1289
-          }
+          },
+          "first_seen": "2026-08-28T17:30:59.574Z"
         },
         {
           "node_type": "item",
@@ -293,14 +306,15 @@
             "owner": "meteoral",
             "repo": "Nali",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:30:59.574Z"
         }
       ],
       "title": "网络诊断、调试工具"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:35:19.762Z",
+    "last_updated": "2026-08-28T17:30:59.574Z",
     "original_repository_info": {
       "archived": false,
       "id": 243001692,
