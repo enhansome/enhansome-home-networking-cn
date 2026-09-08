@@ -76,7 +76,7 @@
                     "open_issues": 45,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109255,
+                    "stars": 109274,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 525,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34207,
+                    "stars": 34208,
                     "topics": [
                       "dns",
                       "firewall",
@@ -248,7 +248,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-31T17:48:31Z",
-                    "open_issues": 67,
+                    "open_issues": 68,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2776,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:31:21.333Z",
+    "last_updated": "2026-09-08T09:51:57.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
