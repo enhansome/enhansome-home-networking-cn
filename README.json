@@ -72,11 +72,11 @@
                     "id": 48378947,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T14:55:32Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-09-09T17:28:29Z",
+                    "open_issues": 52,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109288,
+                    "stars": 109306,
                     "topics": [
                       "expose",
                       "firewall",
@@ -105,10 +105,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2024-05-30T03:51:08Z",
-                    "open_issues": 525,
+                    "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34210,
+                    "stars": 34217,
                     "topics": [
                       "dns",
                       "firewall",
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
-                "stars": 814,
+                "stars": 815,
                 "topics": [
                   "openwrt",
                   "python",
@@ -251,7 +251,7 @@
                     "open_issues": 68,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2777,
+                    "stars": 2779,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:55:22.064Z",
+    "last_updated": "2026-09-10T09:53:00.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
