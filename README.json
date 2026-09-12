@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-09T17:28:29Z",
-                    "open_issues": 53,
+                    "open_issues": 54,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109340,
+                    "stars": 109356,
                     "topics": [
                       "expose",
                       "firewall",
@@ -247,7 +247,7 @@
                     "id": 123925061,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T01:42:05Z",
+                    "last_commit": "2026-09-12T02:39:56Z",
                     "open_issues": 69,
                     "owner": "Entware",
                     "repo": "Entware",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:51:31.979Z",
+    "last_updated": "2026-09-12T09:28:02.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
