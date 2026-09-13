@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-09T17:28:29Z",
-                    "open_issues": 54,
+                    "open_issues": 52,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109356,
+                    "stars": 109374,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34216,
+                    "stars": 34220,
                     "topics": [
                       "dns",
                       "firewall",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:28:02.029Z",
+    "last_updated": "2026-09-13T10:23:59.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
