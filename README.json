@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109442,
+                    "stars": 109474,
                     "topics": [
                       "expose",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6758,
+                    "stars": 6759,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -247,8 +247,8 @@
                     "id": 123925061,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-14T23:56:16Z",
-                    "open_issues": 69,
+                    "last_commit": "2026-09-15T22:55:15Z",
+                    "open_issues": 70,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2781,
@@ -348,7 +348,7 @@
                 "open_issues": 47,
                 "owner": "drcoms",
                 "repo": "drcom-generic",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:12:00.567Z",
+    "last_updated": "2026-09-16T10:06:04.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
