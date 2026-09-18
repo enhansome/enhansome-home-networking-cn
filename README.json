@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 50,
+                    "open_issues": 48,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109495,
+                    "stars": 109497,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34223,
+                    "stars": 34227,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6759,
+                    "stars": 6758,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -248,7 +248,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-17T00:53:24Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2780,
@@ -348,7 +348,7 @@
                 "open_issues": 47,
                 "owner": "drcoms",
                 "repo": "drcom-generic",
-                "stars": 1196,
+                "stars": 1198,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:08:55.718Z",
+    "last_updated": "2026-09-18T09:54:48.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -441,7 +441,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-28T12:37:44Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
       "stars": 1862,
