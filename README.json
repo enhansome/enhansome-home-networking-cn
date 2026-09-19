@@ -76,7 +76,7 @@
                     "open_issues": 48,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109497,
+                    "stars": 109510,
                     "topics": [
                       "expose",
                       "firewall",
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
-                "stars": 815,
+                "stars": 816,
                 "topics": [
                   "openwrt",
                   "python",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6758,
+                    "stars": 6757,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -401,7 +401,7 @@
             "open_issues": 1,
             "owner": "geerlingguy",
             "repo": "internet-monitoring",
-            "stars": 1289,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:54:48.543Z",
+    "last_updated": "2026-09-19T09:37:06.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -441,7 +441,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-28T12:37:44Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
       "stars": 1862,
