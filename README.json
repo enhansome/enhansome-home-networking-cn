@@ -76,7 +76,7 @@
                     "open_issues": 48,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109510,
+                    "stars": 109521,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34227,
+                    "stars": 34226,
                     "topics": [
                       "dns",
                       "firewall",
@@ -275,7 +275,7 @@
                     "open_issues": 45,
                     "owner": "Optware",
                     "repo": "Optware-ng",
-                    "stars": 280,
+                    "stars": 279,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:37:06.487Z",
+    "last_updated": "2026-09-20T09:53:29.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
