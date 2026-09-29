@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 47,
+                    "open_issues": 46,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109673,
+                    "stars": 109698,
                     "topics": [
                       "expose",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6757,
+                    "stars": 6758,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:49:24.451Z",
+    "last_updated": "2026-09-29T11:26:46.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -444,7 +444,7 @@
       "open_issues": 2,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
-      "stars": 1861,
+      "stars": 1860,
       "topics": [
         "awesome-list"
       ]
