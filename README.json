@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109721,
+                    "stars": 109729,
                     "topics": [
                       "expose",
                       "firewall",
@@ -275,7 +275,7 @@
                     "open_issues": 45,
                     "owner": "Optware",
                     "repo": "Optware-ng",
-                    "stars": 279,
+                    "stars": 278,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:14:39.088Z",
+    "last_updated": "2026-10-01T11:42:20.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
