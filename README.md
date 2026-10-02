@@ -905,7 +905,7 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
   * [ngrok](https://ngrok.com/)
 
 * 同时支持 NAT 打洞和服务器中转的内网穿透工具
-  * [frp](https://github.com/fatedier/frp) ⭐ 109,729 | 🐛 48 | 🌐 Go | 📅 2026-09-15: 支持多种协议的内网穿透工具
+  * [frp](https://github.com/fatedier/frp) ⭐ 109,726 | 🐛 48 | 🌐 Go | 📅 2026-09-15: 支持多种协议的内网穿透工具
   * [nps](https://github.com/ehang-io/nps) ⭐ 34,236 | 🐛 527 | 🌐 Go | 📅 2024-05-30: 支持多种协议的内网穿透工具
   * [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
   * [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
@@ -983,7 +983,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 
 「迅雷快鸟」是比较著名的一个网络加速服务，同时有第三方开发者将其移植到路由器，能够在路由器上方便地打开提速服务。
 
-* [迅雷快鸟 Xunlei Network Accelerator For Router](https://github.com/fffonion/Xunlei-Fastdick) ⭐ 816 | 🐛 26 | 🌐 Python | 📅 2020-09-27
+* [迅雷快鸟 Xunlei Network Accelerator For Router](https://github.com/fffonion/Xunlei-Fastdick) ⭐ 815 | 🐛 26 | 🌐 Python | 📅 2020-09-27
 * [迅雷快鸟 - 带宽加速神器插件 - KoolShare](https://web.archive.org/web/20200215124208/http://koolshare.cn/thread-34888-1-1.html)
 
 ### 游戏加速
@@ -1373,4 +1373,4 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

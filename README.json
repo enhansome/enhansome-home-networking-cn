@@ -76,7 +76,7 @@
                     "open_issues": 48,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109729,
+                    "stars": 109726,
                     "topics": [
                       "expose",
                       "firewall",
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
-                "stars": 816,
+                "stars": 815,
                 "topics": [
                   "openwrt",
                   "python",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:42:20.425Z",
+    "last_updated": "2026-10-02T11:11:41.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
