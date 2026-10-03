@@ -76,7 +76,7 @@
                     "open_issues": 50,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109722,
+                    "stars": 109726,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34232,
+                    "stars": 34233,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6757,
+                    "stars": 6758,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:57.805Z",
+    "last_updated": "2026-10-03T10:29:15.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
