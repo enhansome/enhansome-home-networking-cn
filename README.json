@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "blanboom/awesome-technical-diy-cn: DIY Projects/Tools/Books for Makers",
-          "description": null,
+          "description": "blanboom/awesome-technical-diy-cn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "blanboom/tiny-projects: 计算机科学领域的入门 DIY 项目，例如自制操作系统、CPU、编译器等",
-          "description": null,
+          "description": "blanboom/tiny-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 48,
+                    "open_issues": 50,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109726,
+                    "stars": 109722,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34236,
+                    "stars": 34232,
                     "topics": [
                       "dns",
                       "firewall",
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "迅雷快鸟 Xunlei Network Accelerator For Router",
-              "description": null,
+              "description": "fffonion/Xunlei-Fastdick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
                 {
                   "node_type": "item",
                   "title": "Entware · RMerl/asuswrt-merlin Wiki",
-                  "description": null,
+                  "description": "RMerl/asuswrt-merlin",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6758,
+                    "stars": 6757,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -238,7 +238,7 @@
                 {
                   "node_type": "item",
                   "title": "Entware/Entware: Ultimate repo for embedded devices",
-                  "description": null,
+                  "description": "Entware/Entware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -251,7 +251,7 @@
                     "open_issues": 72,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2789,
+                    "stars": 2788,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -262,7 +262,7 @@
                 {
                   "node_type": "item",
                   "title": "Optware/Optware-ng",
-                  "description": null,
+                  "description": "Optware/Optware-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -297,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "z-george-ma/openwrt-iot: IoT support for OpenWRT based router",
-                  "description": null,
+                  "description": "z-george-ma/openwrt-iot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:11:41.701Z",
+    "last_updated": "2026-10-03T04:50:57.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -444,7 +444,7 @@
       "open_issues": 2,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
-      "stars": 1860,
+      "stars": 1858,
       "topics": [
         "awesome-list"
       ]
