@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 50,
+                    "open_issues": 46,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109726,
+                    "stars": 109743,
                     "topics": [
                       "expose",
                       "firewall",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:29:15.653Z",
+    "last_updated": "2026-10-04T11:10:54.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
