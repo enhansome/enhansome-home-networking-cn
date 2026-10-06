@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-15T05:55:33Z",
-                    "open_issues": 46,
+                    "open_issues": 45,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109747,
+                    "stars": 109758,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34232,
+                    "stars": 34242,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6758,
+                    "stars": 6759,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -248,7 +248,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-17T00:53:24Z",
-                    "open_issues": 73,
+                    "open_issues": 72,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2788,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:24:44.917Z",
+    "last_updated": "2026-10-06T10:37:45.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
