@@ -72,11 +72,11 @@
                     "id": 48378947,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T11:58:09Z",
-                    "open_issues": 35,
+                    "last_commit": "2026-10-13T02:46:35Z",
+                    "open_issues": 36,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109847,
+                    "stars": 109875,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34244,
+                    "stars": 34241,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6757,
+                    "stars": 6758,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -251,7 +251,7 @@
                     "open_issues": 72,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2792,
+                    "stars": 2793,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:20:02.717Z",
+    "last_updated": "2026-10-13T12:48:39.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -441,7 +441,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-28T12:37:44Z",
-      "open_issues": 2,
+      "open_issues": 4,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
       "stars": 1857,
