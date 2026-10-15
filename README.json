@@ -72,11 +72,11 @@
                     "id": 48378947,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T09:43:50Z",
+                    "last_commit": "2026-10-15T05:02:03Z",
                     "open_issues": 36,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109898,
+                    "stars": 109924,
                     "topics": [
                       "expose",
                       "firewall",
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
-                "stars": 815,
+                "stars": 814,
                 "topics": [
                   "openwrt",
                   "python",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:21:51.622Z",
+    "last_updated": "2026-10-15T10:07:38.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
