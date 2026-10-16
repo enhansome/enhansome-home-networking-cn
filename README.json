@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "blanboom",
             "repo": "tiny-projects",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "awesome-lists"
             ]
@@ -72,11 +72,11 @@
                     "id": 48378947,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T05:02:03Z",
-                    "open_issues": 36,
+                    "last_commit": "2026-10-15T15:25:49Z",
+                    "open_issues": 35,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 109924,
+                    "stars": 109944,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 527,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34245,
+                    "stars": 34246,
                     "topics": [
                       "dns",
                       "firewall",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:07:38.977Z",
+    "last_updated": "2026-10-16T09:57:49.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
