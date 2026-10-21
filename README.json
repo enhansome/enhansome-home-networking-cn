@@ -76,7 +76,7 @@
                     "open_issues": 34,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110014,
+                    "stars": 110037,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34248,
+                    "stars": 34249,
                     "topics": [
                       "dns",
                       "firewall",
@@ -348,7 +348,7 @@
                 "open_issues": 47,
                 "owner": "drcoms",
                 "repo": "drcom-generic",
-                "stars": 1197,
+                "stars": 1196,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:12:30.478Z",
+    "last_updated": "2026-10-21T10:21:04.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
