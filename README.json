@@ -76,7 +76,7 @@
                     "open_issues": 33,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110120,
+                    "stars": 110135,
                     "topics": [
                       "expose",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6755,
+                    "stars": 6754,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -251,7 +251,7 @@
                     "open_issues": 74,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2795,
+                    "stars": 2797,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:56:28.425Z",
+    "last_updated": "2026-10-26T11:18:47.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
