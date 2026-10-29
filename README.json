@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-29T14:47:04Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "blanboom",
             "repo": "awesome-technical-diy-cn",
             "stars": 141,
@@ -76,7 +76,7 @@
                     "open_issues": 33,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110237,
+                    "stars": 110283,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34264,
+                    "stars": 34263,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6754,
+                    "stars": 6752,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -248,10 +248,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-10T18:48:41Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2800,
+                    "stars": 2799,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:26:55.801Z",
+    "last_updated": "2026-10-29T11:37:23.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
