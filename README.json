@@ -72,11 +72,11 @@
                     "id": 48378947,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T06:56:37Z",
+                    "last_commit": "2026-11-04T12:49:47Z",
                     "open_issues": 34,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110415,
+                    "stars": 110440,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34262,
+                    "stars": 34261,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "RMerl",
                     "repo": "asuswrt-merlin",
-                    "stars": 6749,
+                    "stars": 6748,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -247,11 +247,11 @@
                     "id": 123925061,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T17:47:13Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-11-03T14:06:04Z",
+                    "open_issues": 25,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2803,
+                    "stars": 2804,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -348,7 +348,7 @@
                 "open_issues": 47,
                 "owner": "drcoms",
                 "repo": "drcom-generic",
-                "stars": 1198,
+                "stars": 1197,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:53:58.859Z",
+    "last_updated": "2026-11-04T13:07:30.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -444,7 +444,7 @@
       "open_issues": 6,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
-      "stars": 1859,
+      "stars": 1860,
       "topics": [
         "awesome-list"
       ]
