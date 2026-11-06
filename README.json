@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "blanboom",
             "repo": "awesome-technical-diy-cn",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:59.574Z"
@@ -76,7 +76,7 @@
                     "open_issues": 34,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110456,
+                    "stars": 110469,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 526,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34263,
+                    "stars": 34259,
                     "topics": [
                       "dns",
                       "firewall",
@@ -251,7 +251,7 @@
                     "open_issues": 23,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2804,
+                    "stars": 2806,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:20:53.986Z",
+    "last_updated": "2026-11-06T13:03:51.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
