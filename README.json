@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-10T09:44:59Z",
-                    "open_issues": 41,
+                    "open_issues": 43,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110557,
+                    "stars": 110577,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 525,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34256,
+                    "stars": 34255,
                     "topics": [
                       "dns",
                       "firewall",
@@ -213,7 +213,7 @@
                 {
                   "node_type": "item",
                   "title": "Entware · RMerl/asuswrt-merlin Wiki",
-                  "description": "RMerl/asuswrt-merlin",
+                  "description": "Asuswrt-Merlin/asuswrt-merlin.legacy",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -224,9 +224,9 @@
                     "license": "NOASSERTION",
                     "last_commit": "2019-07-13T20:37:41Z",
                     "open_issues": 82,
-                    "owner": "RMerl",
-                    "repo": "asuswrt-merlin",
-                    "stars": 6750,
+                    "owner": "Asuswrt-Merlin",
+                    "repo": "asuswrt-merlin.legacy",
+                    "stars": 6749,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -248,7 +248,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-09T18:16:55Z",
-                    "open_issues": 30,
+                    "open_issues": 31,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2811,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:52:41.793Z",
+    "last_updated": "2026-11-13T13:15:30.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
