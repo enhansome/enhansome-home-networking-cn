@@ -76,7 +76,7 @@
                     "open_issues": 43,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110599,
+                    "stars": 110625,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 525,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34254,
+                    "stars": 34253,
                     "topics": [
                       "dns",
                       "firewall",
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:50:51.612Z",
+    "last_updated": "2026-11-17T14:42:49.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
