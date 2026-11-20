@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-10T09:44:59Z",
-                    "open_issues": 47,
+                    "open_issues": 49,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110669,
+                    "stars": 110686,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 525,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34253,
+                    "stars": 34255,
                     "topics": [
                       "dns",
                       "firewall",
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "fffonion",
                 "repo": "Xunlei-Fastdick",
-                "stars": 814,
+                "stars": 813,
                 "topics": [
                   "openwrt",
                   "python",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "Asuswrt-Merlin",
                     "repo": "asuswrt-merlin.legacy",
-                    "stars": 6749,
+                    "stars": 6747,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -251,7 +251,7 @@
                     "open_issues": 28,
                     "owner": "Entware",
                     "repo": "Entware",
-                    "stars": 2810,
+                    "stars": 2809,
                     "topics": [
                       "buildroot",
                       "entware"
@@ -401,7 +401,7 @@
             "open_issues": 1,
             "owner": "geerlingguy",
             "repo": "internet-monitoring",
-            "stars": 1290,
+            "stars": 1289,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:59.574Z"
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:33:11.855Z",
+    "last_updated": "2026-11-20T14:11:28.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -444,7 +444,7 @@
       "open_issues": 7,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
-      "stars": 1859,
+      "stars": 1858,
       "topics": [
         "awesome-list"
       ]
