@@ -73,10 +73,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-10T09:44:59Z",
-                    "open_issues": 49,
+                    "open_issues": 51,
                     "owner": "fatedier",
                     "repo": "frp",
-                    "stars": 110766,
+                    "stars": 110784,
                     "topics": [
                       "expose",
                       "firewall",
@@ -108,7 +108,7 @@
                     "open_issues": 525,
                     "owner": "ehang-io",
                     "repo": "nps",
-                    "stars": 34256,
+                    "stars": 34258,
                     "topics": [
                       "dns",
                       "firewall",
@@ -226,7 +226,7 @@
                     "open_issues": 82,
                     "owner": "Asuswrt-Merlin",
                     "repo": "asuswrt-merlin.legacy",
-                    "stars": 6747,
+                    "stars": 6748,
                     "topics": [
                       "asus-routers",
                       "asuswrt-merlin",
@@ -248,7 +248,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-22T12:50:37Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Entware",
                     "repo": "Entware",
                     "stars": 2811,
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:01:35.099Z",
+    "last_updated": "2026-11-25T15:50:33.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "家庭网络知识整理",
@@ -444,7 +444,7 @@
       "open_issues": 7,
       "owner": "blanboom",
       "repo": "awesome-home-networking-cn",
-      "stars": 1859,
+      "stars": 1860,
       "topics": [
         "awesome-list"
       ]
